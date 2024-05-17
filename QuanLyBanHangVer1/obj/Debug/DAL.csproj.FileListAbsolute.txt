@@ -1,0 +1,2 @@
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\DAL.csproj.CoreCompileInputs.cache

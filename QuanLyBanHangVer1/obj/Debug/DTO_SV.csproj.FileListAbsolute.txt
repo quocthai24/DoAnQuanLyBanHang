@@ -1,0 +1,2 @@
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\DTO_SV.csproj.AssemblyReference.cache
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\DTO_SV.csproj.CoreCompileInputs.cache

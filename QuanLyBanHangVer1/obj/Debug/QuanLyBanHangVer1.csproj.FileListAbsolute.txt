@@ -1,0 +1,226 @@
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\QuanLyBanHangVer1.exe.config
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\QuanLyBanHangVer1.exe
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\QuanLyBanHangVer1.pdb
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.csproj.AssemblyReference.cache
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmDangNhap.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.Properties.Resources.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.csproj.GenerateResource.cache
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.csproj.CoreCompileInputs.cache
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.exe
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.pdb
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmNhanVien.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTrangChuAdmin.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmNhaCungCap.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmChucVu.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmKhachHang.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmHangHoa.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmPhieuNhap.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTrangChuNhanVien.resources
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\x86\SqlServerSpatial160.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\x64\SqlServerSpatial160.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\EnvDTE.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\stdole.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\Microsoft.MSXML.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.csproj.CopyComplete
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\EntityFramework.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\EntityFramework.SqlServer.dll
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\EntityFramework.xml
+D:\BT C#\QuanLyBanHangVer1\bin\Debug\EntityFramework.SqlServer.xml
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmPhieuXuat.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuHoaDonMua.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTimKiemHoaDonBan.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuHangHoa.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuNhanVien.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuNhaCungCap.resources
+D:\BT C#\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuKhachHang.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\QuanLyBanHangVer1.exe.config
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\QuanLyBanHangVer1.exe
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\QuanLyBanHangVer1.pdb
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\EntityFramework.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\EnvDTE.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\stdole.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\EntityFramework.xml
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.csproj.AssemblyReference.cache
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmChucVu.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmDangNhap.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmHangHoa.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmKhachHang.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmNhaCungCap.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmNhanVien.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmPhieuNhap.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmPhieuXuat.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTimKiemHoaDonBan.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuHangHoa.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuHoaDonMua.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuKhachHang.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuNhaCungCap.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTraCuuNhanVien.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTrangChuAdmin.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.frmTrangChuNhanVien.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.Properties.Resources.resources
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.csproj.GenerateResource.cache
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.csproj.CoreCompileInputs.cache
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.csproj.CopyComplete
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.exe
+C:\Users\caot4\OneDrive\Tài liệu\Đồ Án Ứng Dụng\QuanLyBanHangVer1\obj\Debug\QuanLyBanHangVer1.pdb
